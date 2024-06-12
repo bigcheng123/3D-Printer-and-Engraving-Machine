@@ -3,31 +3,31 @@
 #### 介绍
 使用 3d打印机 + CNC雕刻机 制作木型
 
-#### 软件架构
-软件架构说明
+#### 成品图
+![输入图片说明](04_images/%E5%86%85%E5%88%B6%E6%9C%A8%E5%9E%8B.JPG)
 
 
-#### 安装教程
+#### 3D Printer 介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  型号 及 参数
+2.  使用说明
+3.  3D打印案例
 
-#### 使用说明
+#### CNC 雕刻机 介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+1.  型号 及 参数
+2.  使用说明
+3.  加工案例
 
-#### 参与贡献
+#### 其他
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1.  3D打印软件地址
+2.  CNC雕刻机 软件地址
+3.  
+4.  
 
 
-#### 特技
+#### 声明
 
 1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
 2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
