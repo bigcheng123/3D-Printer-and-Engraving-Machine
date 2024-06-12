@@ -73,7 +73,11 @@
 
    使用solidworks等三维软件绘制三维模型，并输出 .igs 格式
 
-   将 .igs 格式的文件导入 精雕 软件进行刀路编程
+   将 .igs 格式的文件导入 精雕 软件进行刀路编程，并生成 .NC 程序
+
+   将 NC 程序导入雕刻机控制软件，并进行对刀操作
+
+   开始选择刀路程序并加工零件
 
    
 
@@ -83,13 +87,15 @@
 
 #### 五.其他
 
-1.  3D打印软件  **ideaMaker**  地址:  https://www.raise3d.cn/ideamaker-2/
+1.  3D打印软件  **ideaMaker**  地址:  https://www.raise3d.cn/ideamaker-2/   （免费）
 
-2.  CNC雕刻机编程软件  **精雕**  地址: https://surfmill.jingdiaosoft.com/download/User/User/submit
+2.  CNC雕刻机编程软件  **精雕**  地址: https://surfmill.jingdiaosoft.com/download/User/User/submit   （3轴以下免费）
 
-3.  雕刻机控制软件：购买雕刻机时商家会提供控制软件
+3.  雕刻机控制软件：购买雕刻机时商家提供控制软件
 
-4.  
+4.  solidworks软件（2018版）： https://pan.baidu.com/s/1Fbj_zmmrlyfwcCMxXS6-ig?pwd=6789       提取码： 6789
+
+5.  solidworks软件（2018版）安装教程： https://mp.weixin.qq.com/s/HcJyfseriUm2UyYpPCXENA
 
 
 #### 声明
