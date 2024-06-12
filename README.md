@@ -83,9 +83,12 @@
 
 #### 五.其他
 
-1.  3D打印软件地址
-2.  CNC雕刻机 软件地址
-3.  
+1.  3D打印软件  **ideaMaker**  地址:  https://www.raise3d.cn/ideamaker-2/
+
+2.  CNC雕刻机编程软件  **精雕**  地址: https://surfmill.jingdiaosoft.com/download/User/User/submit
+
+3.  雕刻机控制软件：购买雕刻机时商家会提供控制软件
+
 4.  
 
 
