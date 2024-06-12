@@ -1,3 +1,8 @@
+### Readme English [https://gitee.com/trgtokai/3ddayinjicncdiao/blob/master/README.en.md](https://gitee.com/trgtokai/3ddayinjicncdiao/blob/master/README.en.md)
+
+### 日本語 Japanese [https://gitee.com/trgtokai/3ddayinjicncdiao/blob/master/README.jp.md](https://gitee.com/trgtokai/3ddayinjicncdiao/blob/master/README.jp.md)
+------------------------------------------------------------------------------
+
 # 3D打印机 及  CNC雕刻机 运用
 
 #### 介绍
