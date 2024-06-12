@@ -24,6 +24,10 @@
   - 支持格式:.stl / .obj  / .3MF  / .OLTP
   - **网址：** https://item.jd.com/100014643451.html#crumb-wrap （京东）
   - 打印机图片
+
+![输入图片说明](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/3D%E6%89%93%E5%8D%B0%E6%9C%BA_Raise3D%20PRO3%20PLUS.jpg)
+
+
 2. **使用说明：**
 
    使用3D绘图软件，例如solidworks、UG、catia等绘制三维模型并导出.STL格式
