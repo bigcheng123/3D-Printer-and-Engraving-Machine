@@ -93,9 +93,7 @@
 
 3.  雕刻机控制软件：购买雕刻机时商家提供控制软件
 
-4.  solidworks软件（2018版）： https://pan.baidu.com/s/1Fbj_zmmrlyfwcCMxXS6-ig?pwd=6789       提取码： 6789
-
-5.  solidworks软件（2018版）安装教程： https://mp.weixin.qq.com/s/HcJyfseriUm2UyYpPCXENA
+4.  solidworks软件： 请向正规代理商咨询
 
 
 #### 声明
