@@ -12,11 +12,11 @@ Using **3D printers** and **CNC engraving machines** to create wooden models, ac
 
  **Design Diagram**: Based on product drawings and tolerance information, a 3D model is created using SolidWorks.
 
-![Design Diagram](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E6%9C%A8%E5%9E%8B%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)  
+![输入图片说明](01_Summary/%E6%9C%A8%E5%9E%8B%E8%AE%BE%E8%AE%A1%E5%9B%BE.jpg)
 
  **Actual Product**: Created using a combination of 3D printing, engraving, and standard purchased components.
 
-![Actual Product](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E6%9C%A8%E5%9E%8B%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg)
+![输入图片说明](01_Summary/%E6%9C%A8%E5%9E%8B%E5%AE%9E%E7%89%A9%E5%9B%BE.jpg)
 
 #### III. 3D Printer Introduction
 
@@ -34,7 +34,7 @@ Using **3D printers** and **CNC engraving machines** to create wooden models, ac
   - Detailed introduction: [JD.com](https://item.jd.com/100014643451.html#crumb-wrap)
   - Printer image:
 
-![Printer Image](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/3D%E6%89%93%E5%8D%B0%E6%9C%BA_Raise3D%20PRO3%20PLUS.jpg)
+![输入图片说明](01_Summary/3D%E6%89%93%E5%8D%B0%E6%9C%BA_Raise3D%20PRO3%20PLUS.jpg)
 
 
  **4. Instructions for Use:** 
@@ -45,13 +45,12 @@ Using **3D printers** and **CNC engraving machines** to create wooden models, ac
 
    Upload the print program to the 3D printer and start printing.
 
-   ![Operation Process](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E6%89%93%E5%8D%B0%E6%9C%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.jpg)
+   ![输入图片说明](01_Summary/%E6%89%93%E5%8D%B0%E6%9C%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B.jpg)
     
  **5. 3D Printing Examples:** 
 
-   ![Example 1](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240612175034.jpg)      
-   ![Example 2](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240612175045.jpg)
-
+  ![输入图片说明](01_Summary/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240612175034.jpg)     
+  ![输入图片说明](01_Summary/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240612175045.jpg)
 
 
 #### IV. CNC Engraving Machine Introduction
@@ -68,7 +67,7 @@ Using **3D printers** and **CNC engraving machines** to create wooden models, ac
   - Detailed introduction: [Taobao](https://item.taobao.com/item.htm?spm=a1z0d.6639537/tb.1997196601.204.6eee7484eKDyp0&id=618733471891&skuId=4533772730407)
   - Engraving machine image:
 
-  ![Engraving Machine Image](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E9%9B%95%E5%88%BB%E6%9C%BA.jpg)
+ ![输入图片说明](01_Summary/%E9%9B%95%E5%88%BB%E6%9C%BA.jpg)
 
 
  **4. Instructions for Use:** 
@@ -81,14 +80,12 @@ Using **3D printers** and **CNC engraving machines** to create wooden models, ac
 
    Select the toolpath program and start machining the part.
 
-   ![Operation Process](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E9%9B%95%E5%88%BB%E6%9C%BA%E6%93%8D%E4%BD%9C.jpg)
+![输入图片说明](01_Summary/%E9%9B%95%E5%88%BB%E6%9C%BA%E6%93%8D%E4%BD%9C.jpg)
    
 
  **5. Machining Examples:** 
-
- ![Example 1](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E5%9B%BE%E7%89%871.jpg)   
- ![Example 2](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E5%9B%BE%E7%89%872.jpg)   
- ![Example 3](01_%E9%A1%B9%E7%9B%AE%E6%A6%82%E8%A6%81/%E5%9B%BE%E7%89%873.jpg)
+ 
+![输入图片说明](01_Summary/%E5%9B%BE%E7%89%871.jpg) ![输入图片说明](01_Summary/%E5%9B%BE%E7%89%872.jpg) ![输入图片说明](01_Summary/%E5%9B%BE%E7%89%873.jpg)
 
 #### V. Others
 
